@@ -1,0 +1,109 @@
+h1{
+    text-align: center;
+    color: blue
+}
+
+nav{
+    text-align: center;
+}
+
+#div1{
+    display: block;
+    border-style: solid;
+    float: left;
+    padding: auto;
+    margin: auto;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-left: 35px;
+    background-color:rgba(247, 218, 136, 0.3);
+}
+
+h3{
+    text-align: center;
+}
+#div2{
+ display: block;
+ border-style: solid;
+ float: right;
+ padding: 50px 50px 10px 50px;
+ margin: 10px;
+ margin-right: 35px;
+ background-color: rgba(247, 218, 136, 0.3);   
+}
+
+#img1{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+body{
+    background-image: url(http://enkalna.com/wp-content/uploads/job-manager-uploads/main_image/2017/04/bataa.jpg);
+    background-repeat: no-repeat;
+    background-size: 1366px 768px;
+}
+
+#img2{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img3{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img4{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img5{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img6{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img7{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img8{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img9{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#img10{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
